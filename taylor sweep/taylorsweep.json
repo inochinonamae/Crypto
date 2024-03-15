@@ -1,1 +1,10 @@
-
+{
+  "name": "RockeTrump",
+  "symbol": "RKT",
+  "description": "Trump riding the Rocket",
+  "extensions": {
+    "twitter": "https://twitter.com/bruhbruh_sol",
+    "telegram": "https://t.me/taylorsweepsol"
+  },
+  "image": "https://github.com/inochinonamae/Crypto/blob/main/logo.png"
+}
