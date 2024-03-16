@@ -1,1 +1,10 @@
-
+{
+  "name": "TikTok Tower",
+  "symbol": "TikTok",
+  "description": "Plz, fam, 📣 Vote 4 TikTok to stay & keep the vibes goin'",
+  "extensions": {
+    "twitter": "https://twitter.com/bruhbruh_sol",
+    "telegram": "https://t.me/+6wGODlq442I0OTYx"
+  },
+  "image": "https://raw.githubusercontent.com/inochinonamae/Crypto/main/taylor%20sweep/logo.png"
+}
